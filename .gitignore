@@ -1,0 +1,6 @@
+# Scratch and temporary files
+scratch/
+scratch_titles.json
+
+# Logs
+*.log

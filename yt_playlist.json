@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "Safarnama",
+    "artist": "Tamasha · Lucky Ali & A.R. Rahman",
+    "duration": "4:12",
+    "freq": 220,
+    "ytId": "sOhESxhibAM"
+  },
+  {
+    "id": 2,
+    "title": "Phir Se Ud Chala",
+    "artist": "Rockstar · Mohit Chauhan & A.R. Rahman",
+    "duration": "4:32",
+    "freq": 247,
+    "ytId": "2mWaqsC3U7k"
+  },
+  {
+    "id": 3,
+    "title": "Shiv Kailashon Ke Vasi",
+    "artist": "Laman Band · Himachal Folk",
+    "duration": "5:20",
+    "freq": 261,
+    "ytId": "BArlCOQ__ug"
+  },
+  {
+    "id": 4,
+    "title": "Maahi Ve",
+    "artist": "Highway · A.R. Rahman & Alia Bhatt",
+    "duration": "5:21",
+    "freq": 293,
+    "ytId": "s8aAlUynpEY"
+  },
+  {
+    "id": 5,
+    "title": "Shiv Kailasho Ke Vasi",
+    "artist": "Hansraj Raghuwanshi",
+    "duration": "5:45",
+    "freq": 329,
+    "ytId": "PlIoHp6v3LI"
+  },
+  {
+    "id": 6,
+    "title": "Ilahi",
+    "artist": "Yeh Jawaani Hai Deewani · Arijit Singh",
+    "duration": "3:49",
+    "freq": 349,
+    "ytId": "fdubeMFwuGs"
+  },
+  {
+    "id": 7,
+    "title": "Dil Beparvah",
+    "artist": "The Dewarists · Prateek Kuhad & Ankur Tewari",
+    "duration": "3:30",
+    "freq": 392,
+    "ytId": "2N8_XDPW67Q"
+  },
+  {
+    "id": 8,
+    "title": "Journey Song",
+    "artist": "Piku · Anupam Roy & Shreya Ghoshal",
+    "duration": "4:12",
+    "freq": 440,
+    "ytId": "oZ7PnR_ZKRE"
+  },
+  {
+    "id": 9,
+    "title": "Patakha Guddi",
+    "artist": "Highway · Nooran Sisters & A.R. Rahman",
+    "duration": "4:45",
+    "freq": 493,
+    "ytId": "8HDTS80dlr4"
+  },
+  {
+    "id": 10,
+    "title": "Babaji",
+    "artist": "Mohit Chauhan",
+    "duration": "4:18",
+    "freq": 523,
+    "ytId": "Gy3f_A8J7KQ"
+  },
+  {
+    "id": 11,
+    "title": "Banao Banao",
+    "artist": "Papon",
+    "duration": "4:02",
+    "freq": 220,
+    "ytId": "QMtJqPw2m-8"
+  },
+  {
+    "id": 12,
+    "title": "Yun Hi Chala Chal",
+    "artist": "Swades · Udit Narayan & A.R. Rahman",
+    "duration": "7:20",
+    "freq": 247,
+    "ytId": "eEeX2QMlSlo"
+  },
+  {
+    "id": 13,
+    "title": "Banjarey",
+    "artist": "Fugly · Yo Yo Honey Singh",
+    "duration": "4:05",
+    "freq": 261,
+    "ytId": "QkdYA_T-Mbs"
+  },
+  {
+    "id": 14,
+    "title": "Back Home To The Mountains",
+    "artist": "Gaurav Pandey",
+    "duration": "3:58",
+    "freq": 293,
+    "ytId": "9godkMYS1c4"
+  },
+  {
+    "id": 15,
+    "title": "Chota Sa Fasana",
+    "artist": "Karwaan · Arijit Singh",
+    "duration": "3:56",
+    "freq": 329,
+    "ytId": "4h5aIACGjQo"
+  },
+  {
+    "id": 16,
+    "title": "Subhanallah",
+    "artist": "YJHD · Sreerama Chandra & Shilpa Rao",
+    "duration": "4:09",
+    "freq": 349,
+    "ytId": "Q35-1LlyVzE"
+  },
+  {
+    "id": 17,
+    "title": "Khaabon Ke Parindey",
+    "artist": "ZNMD · Mohit Chauhan & Alyssa Mendonsa",
+    "duration": "5:07",
+    "freq": 392,
+    "ytId": "R0XjibbS_io"
+  },
+  {
+    "id": 18,
+    "title": "Kabira (Encore)",
+    "artist": "YJHD · Arijit Singh & Harshdeep Kaur",
+    "duration": "4:29",
+    "freq": 440,
+    "ytId": "jHNNMj5bNQw"
+  },
+  {
+    "id": 19,
+    "title": "Matargashti",
+    "artist": "Tamasha · Mohit Chauhan",
+    "duration": "5:28",
+    "freq": 493,
+    "ytId": "6vKucgAeF_Q"
+  },
+  {
+    "id": 20,
+    "title": "Agar Tum Saath Ho",
+    "artist": "Tamasha · Arijit Singh & Alka Yagnik",
+    "duration": "5:41",
+    "freq": 523,
+    "ytId": "sK7riqg25ac"
+  },
+  {
+    "id": 21,
+    "title": "Hawaa Hawaa",
+    "artist": "Rockstar · Mohit Chauhan",
+    "duration": "5:42",
+    "freq": 220,
+    "ytId": "p7YnB7K1i70"
+  },
+  {
+    "id": 22,
+    "title": "Nadaan Parindey",
+    "artist": "Rockstar · A.R. Rahman & Mohit Chauhan",
+    "duration": "6:26",
+    "freq": 247,
+    "ytId": "ttKXdO4XGjY"
+  },
+  {
+    "id": 23,
+    "title": "Kun Faya Kun",
+    "artist": "Rockstar · A.R. Rahman & Mohit Chauhan",
+    "duration": "7:53",
+    "freq": 261,
+    "ytId": "T94PHkuydcw"
+  },
+  {
+    "id": 24,
+    "title": "Rohru Jana (Pahadi Lofi)",
+    "artist": "Himachali Pahadi Special",
+    "duration": "3:45",
+    "freq": 293,
+    "ytId": "l2dL5SN5jO4"
+  },
+  {
+    "id": 25,
+    "title": "Bharmauri (Mohit Chauhan)",
+    "artist": "Himachal Folk Beats",
+    "duration": "4:12",
+    "freq": 329,
+    "ytId": "BArlCOQ__ug"
+  },
+  {
+    "id": 26,
+    "title": "Chamba Kitni Door (Lo-Fi)",
+    "artist": "Spiti Sky Acoustic",
+    "duration": "3:12",
+    "freq": 349,
+    "ytId": "sOhESxhibAM"
+  },
+  {
+    "id": 27,
+    "title": "Spiti Valley Sunset (Acoustic)",
+    "artist": "Himalayan Chillout",
+    "duration": "3:55",
+    "freq": 392,
+    "ytId": "s8aAlUynpEY"
+  },
+  {
+    "id": 28,
+    "title": "Laman - Saanjh (Pahadi Band)",
+    "artist": "Laman Music",
+    "duration": "4:05",
+    "freq": 440,
+    "ytId": "PlIoHp6v3LI"
+  },
+  {
+    "id": 29,
+    "title": "Nazaara (Pahadi Chill Beats)",
+    "artist": "Dhauladhar Beats",
+    "duration": "3:18",
+    "freq": 493,
+    "ytId": "2N8_XDPW67Q"
+  },
+  {
+    "id": 30,
+    "title": "Spiti Calling (High Elevation)",
+    "artist": "Spiti Acoustic",
+    "duration": "3:50",
+    "freq": 523,
+    "ytId": "9godkMYS1c4"
+  },
+  {
+    "id": 31,
+    "title": "Kullu Nati Traditional Beats",
+    "artist": "Kullu Folk Society",
+    "duration": "4:20",
+    "freq": 220,
+    "ytId": "fdubeMFwuGs"
+  },
+  {
+    "id": 32,
+    "title": "Shimla Mall Road Rain (Lo-Fi)",
+    "artist": "Ridge Station",
+    "duration": "3:05",
+    "freq": 247,
+    "ytId": "2mWaqsC3U7k"
+  },
+  {
+    "id": 33,
+    "title": "Mandi Shivratri Heritage Dhun",
+    "artist": "Mandi Echoes",
+    "duration": "3:40",
+    "freq": 261,
+    "ytId": "Gy3f_A8J7KQ"
+  },
+  {
+    "id": 34,
+    "title": "Kinnauri Folk Nati",
+    "artist": "Kinnaur Kailash",
+    "duration": "4:15",
+    "freq": 293,
+    "ytId": "QMtJqPw2m-8"
+  },
+  {
+    "id": 35,
+    "title": "Manali Riverside Coffee",
+    "artist": "Beas Stream Beats",
+    "duration": "3:08",
+    "freq": 329,
+    "ytId": "eEeX2QMlSlo"
+  },
+  {
+    "id": 36,
+    "title": "Kalpa Sunset Glow",
+    "artist": "Apple Orchard Lo-Fi",
+    "duration": "3:25",
+    "freq": 349,
+    "ytId": "QkdYA_T-Mbs"
+  },
+  {
+    "id": 37,
+    "title": "Solan Gaddi Tribe Melody",
+    "artist": "Gaddi Folk Beats",
+    "duration": "3:35",
+    "freq": 392,
+    "ytId": "4h5aIACGjQo"
+  },
+  {
+    "id": 38,
+    "title": "Chitkul Last Village Drift",
+    "artist": "Indo-Tibet Border Beats",
+    "duration": "3:45",
+    "freq": 440,
+    "ytId": "Q35-1LlyVzE"
+  },
+  {
+    "id": 39,
+    "title": "Rohtang Pass Snow Drift",
+    "artist": "High Altitude Chill",
+    "duration": "3:50",
+    "freq": 493,
+    "ytId": "R0XjibbS_io"
+  },
+  {
+    "id": 40,
+    "title": "HRTC Night Express (Final Stop)",
+    "artist": "Him Bus Driver Lo-Fi",
+    "duration": "4:20",
+    "freq": 523,
+    "ytId": "sOhESxhibAM"
+  },
+  {
+    "id": 41,
+    "title": "Ye Tumhari Meri Baatein",
+    "artist": "Rockstar · Mohit Chauhan",
+    "duration": "5:02",
+    "freq": 220,
+    "ytId": "2mWaqsC3U7k"
+  },
+  {
+    "id": 42,
+    "title": "Katiyabaaz",
+    "artist": "A.R. Rahman",
+    "duration": "3:40",
+    "freq": 247,
+    "ytId": "8HDTS80dlr4"
+  },
+  {
+    "id": 43,
+    "title": "Beedi",
+    "artist": "Omkara · Sunidhi Chauhan & Sukhwinder",
+    "duration": "5:05",
+    "freq": 261,
+    "ytId": "s8aAlUynpEY"
+  },
+  {
+    "id": 44,
+    "title": "Chaiyya Chaiyya",
+    "artist": "Dil Se · Sukhwinder Singh & A.R. Rahman",
+    "duration": "6:54",
+    "freq": 293,
+    "ytId": "eEeX2QMlSlo"
+  },
+  {
+    "id": 45,
+    "title": "Monta Re",
+    "artist": "Lootera · Swanand Kirkire",
+    "duration": "3:58",
+    "freq": 329,
+    "ytId": "oZ7PnR_ZKRE"
+  },
+  {
+    "id": 46,
+    "title": "Shubhaarambh",
+    "artist": "Kai Po Che · Amit Trivedi",
+    "duration": "3:45",
+    "freq": 349,
+    "ytId": "fdubeMFwuGs"
+  },
+  {
+    "id": 47,
+    "title": "Behti Hawa Sa Tha Wo",
+    "artist": "3 Idiots · Shaan & Shantanu Moitra",
+    "duration": "5:01",
+    "freq": 392,
+    "ytId": "sOhESxhibAM"
+  },
+  {
+    "id": 48,
+    "title": "Give Me Some Sunshine",
+    "artist": "3 Idiots · Suraj Jagan & Sharman Joshi",
+    "duration": "4:07",
+    "freq": 440,
+    "ytId": "Q35-1LlyVzE"
+  },
+  {
+    "id": 49,
+    "title": "Tu Kisi Rail Si",
+    "artist": "Masaan · Indian Ocean & Swanand Kirkire",
+    "duration": "3:30",
+    "freq": 493,
+    "ytId": "R0XjibbS_io"
+  },
+  {
+    "id": 50,
+    "title": "Sham",
+    "artist": "Aisha · Amit Trivedi & Nikhil D'Souza",
+    "duration": "4:45",
+    "freq": 523,
+    "ytId": "jHNNMj5bNQw"
+  },
+  {
+    "id": 51,
+    "title": "Hairat",
+    "artist": "Anjaana Anjaani · Lucky Ali",
+    "duration": "4:08",
+    "freq": 220,
+    "ytId": "sOhESxhibAM"
+  },
+  {
+    "id": 52,
+    "title": "Ahista Ahista",
+    "artist": "Himesh Reshammiya & Lucky Ali",
+    "duration": "4:45",
+    "freq": 247,
+    "ytId": "2mWaqsC3U7k"
+  },
+  {
+    "id": 53,
+    "title": "Zindagi Ki Yehi Reet Hai",
+    "artist": "Mr. India · Kishore Kumar",
+    "duration": "5:12",
+    "freq": 261,
+    "ytId": "eEeX2QMlSlo"
+  },
+  {
+    "id": 54,
+    "title": "Tanha Dil",
+    "artist": "Shaan",
+    "duration": "4:50",
+    "freq": 293,
+    "ytId": "fdubeMFwuGs"
+  },
+  {
+    "id": 55,
+    "title": "Pani Da Rang",
+    "artist": "Vicky Donor · Ayushmann Khurrana",
+    "duration": "4:00",
+    "freq": 329,
+    "ytId": "oZ7PnR_ZKRE"
+  },
+  {
+    "id": 56,
+    "title": "Galliyan",
+    "artist": "Ek Villain · Ankit Tiwari",
+    "duration": "5:40",
+    "freq": 349,
+    "ytId": "sK7riqg25ac"
+  },
+  {
+    "id": 57,
+    "title": "Tum Se Hi",
+    "artist": "Jab We Met · Mohit Chauhan",
+    "duration": "5:23",
+    "freq": 392,
+    "ytId": "6vKucgAeF_Q"
+  },
+  {
+    "id": 58,
+    "title": "Yeh Ishq Hai",
+    "artist": "Jab We Met · Shreya Ghoshal",
+    "duration": "4:40",
+    "freq": 440,
+    "ytId": "jHNNMj5bNQw"
+  },
+  {
+    "id": 59,
+    "title": "Aao Milo Chalo",
+    "artist": "Jab We Met · Shaan",
+    "duration": "5:28",
+    "freq": 493,
+    "ytId": "R0XjibbS_io"
+  },
+  {
+    "id": 60,
+    "title": "Hum Kis Gali Jaa Rahe Hain",
+    "artist": "Atif Aslam",
+    "duration": "5:02",
+    "freq": 523,
+    "ytId": "p7YnB7K1i70"
+  },
+  {
+    "id": 61,
+    "title": "Dooba Dooba",
+    "artist": "Silk Route & Mohit Chauhan",
+    "duration": "4:55",
+    "freq": 220,
+    "ytId": "Gy3f_A8J7KQ"
+  },
+  {
+    "id": 62,
+    "title": "Boondein",
+    "artist": "Silk Route",
+    "duration": "4:30",
+    "freq": 247,
+    "ytId": "BArlCOQ__ug"
+  },
+  {
+    "id": 63,
+    "title": "Tu Aashiqui Hai",
+    "artist": "Jhankaar Beats · KK",
+    "duration": "6:10",
+    "freq": 261,
+    "ytId": "PlIoHp6v3LI"
+  },
+  {
+    "id": 64,
+    "title": "Kya Mujhe Pyar Hai",
+    "artist": "Woh Lamhe · KK",
+    "duration": "4:26",
+    "freq": 293,
+    "ytId": "2N8_XDPW67Q"
+  },
+  {
+    "id": 65,
+    "title": "Yaaron",
+    "artist": "Rockford · KK",
+    "duration": "4:28",
+    "freq": 329,
+    "ytId": "8HDTS80dlr4"
+  },
+  {
+    "id": 66,
+    "title": "Pal",
+    "artist": "KK",
+    "duration": "4:42",
+    "freq": 349,
+    "ytId": "9godkMYS1c4"
+  },
+  {
+    "id": 67,
+    "title": "Alvida",
+    "artist": "Life in a Metro · KK",
+    "duration": "5:40",
+    "freq": 392,
+    "ytId": "4h5aIACGjQo"
+  },
+  {
+    "id": 68,
+    "title": "O Meri Jaan",
+    "artist": "Life in a Metro · KK",
+    "duration": "4:58",
+    "freq": 440,
+    "ytId": "Q35-1LlyVzE"
+  },
+  {
+    "id": 69,
+    "title": "In Dino",
+    "artist": "Life in a Metro · Soham",
+    "duration": "6:33",
+    "freq": 493,
+    "ytId": "ttKXdO4XGjY"
+  },
+  {
+    "id": 70,
+    "title": "Baarishein",
+    "artist": "Anuv Jain",
+    "duration": "3:27",
+    "freq": 523,
+    "ytId": "l2dL5SN5jO4"
+  },
+  {
+    "id": 71,
+    "title": "Gul",
+    "artist": "Anuv Jain",
+    "duration": "3:38",
+    "freq": 220,
+    "ytId": "sOhESxhibAM"
+  },
+  {
+    "id": 72,
+    "title": "Husn",
+    "artist": "Anuv Jain",
+    "duration": "3:35",
+    "freq": 247,
+    "ytId": "2mWaqsC3U7k"
+  },
+  {
+    "id": 73,
+    "title": "Alag Aasmaan",
+    "artist": "Anuv Jain",
+    "duration": "3:30",
+    "freq": 261,
+    "ytId": "BArlCOQ__ug"
+  },
+  {
+    "id": 74,
+    "title": "Choo Lo",
+    "artist": "The Local Train",
+    "duration": "3:54",
+    "freq": 293,
+    "ytId": "fdubeMFwuGs"
+  },
+  {
+    "id": 75,
+    "title": "Aoge Tum Kabhi",
+    "artist": "The Local Train",
+    "duration": "5:12",
+    "freq": 329,
+    "ytId": "oZ7PnR_ZKRE"
+  },
+  {
+    "id": 76,
+    "title": "Dil Mere",
+    "artist": "The Local Train",
+    "duration": "3:30",
+    "freq": 349,
+    "ytId": "8HDTS80dlr4"
+  },
+  {
+    "id": 77,
+    "title": "Khudi",
+    "artist": "The Local Train",
+    "duration": "4:48",
+    "freq": 392,
+    "ytId": "QMtJqPw2m-8"
+  },
+  {
+    "id": 78,
+    "title": "Voh Dekhnay Mein",
+    "artist": "London Paris New York · Ali Zafar",
+    "duration": "3:18",
+    "freq": 440,
+    "ytId": "eEeX2QMlSlo"
+  },
+  {
+    "id": 79,
+    "title": "Teen Kabootar",
+    "artist": "Lucknow Central · Amit Trivedi",
+    "duration": "3:32",
+    "freq": 493,
+    "ytId": "QkdYA_T-Mbs"
+  },
+  {
+    "id": 80,
+    "title": "O Gujariya",
+    "artist": "Queen · Amit Trivedi",
+    "duration": "4:22",
+    "freq": 523,
+    "ytId": "9godkMYS1c4"
+  },
+  {
+    "id": 81,
+    "title": "London Thumakda",
+    "artist": "Queen · Labh Janjua",
+    "duration": "3:50",
+    "freq": 220,
+    "ytId": "4h5aIACGjQo"
+  },
+  {
+    "id": 82,
+    "title": "Jiya Re",
+    "artist": "Jab Tak Hai Jaan · Neeti Mohan & A.R. Rahman",
+    "duration": "5:20",
+    "freq": 247,
+    "ytId": "Q35-1LlyVzE"
+  },
+  {
+    "id": 83,
+    "title": "Challa",
+    "artist": "Jab Tak Hai Jaan · Rabbi Shergill & A.R. Rahman",
+    "duration": "5:22",
+    "freq": 261,
+    "ytId": "R0XjibbS_io"
+  },
+  {
+    "id": 84,
+    "title": "Saans",
+    "artist": "Jab Tak Hai Jaan · Shreya Ghoshal & Mohit Chauhan",
+    "duration": "5:28",
+    "freq": 293,
+    "ytId": "jHNNMj5bNQw"
+  },
+  {
+    "id": 85,
+    "title": "Tera Yaar Hoon Main",
+    "artist": "Sonu Ke Titu Ki Sweety · Arijit Singh",
+    "duration": "4:03",
+    "freq": 329,
+    "ytId": "6vKucgAeF_Q"
+  },
+  {
+    "id": 86,
+    "title": "Ae Dil Hai Mushkil",
+    "artist": "Ae Dil Hai Mushkil · Arijit Singh",
+    "duration": "4:29",
+    "freq": 349,
+    "ytId": "sK7riqg25ac"
+  },
+  {
+    "id": 87,
+    "title": "Channa Mereya",
+    "artist": "Ae Dil Hai Mushkil · Arijit Singh",
+    "duration": "4:49",
+    "freq": 392,
+    "ytId": "p7YnB7K1i70"
+  },
+  {
+    "id": 88,
+    "title": "Bulleya",
+    "artist": "Ae Dil Hai Mushkil · Amit Mishra",
+    "duration": "5:48",
+    "freq": 440,
+    "ytId": "ttKXdO4XGjY"
+  },
+  {
+    "id": 89,
+    "title": "Cutiepie",
+    "artist": "Ae Dil Hai Mushkil · Pardeep Singh Sran",
+    "duration": "3:51",
+    "freq": 493,
+    "ytId": "T94PHkuydcw"
+  },
+  {
+    "id": 90,
+    "title": "Kal Ho Naa Ho",
+    "artist": "Kal Ho Naa Ho · Sonu Nigam",
+    "duration": "5:21",
+    "freq": 523,
+    "ytId": "l2dL5SN5jO4"
+  },
+  {
+    "id": 91,
+    "title": "Mitwa",
+    "artist": "KANK · Shankar Mahadevan",
+    "duration": "6:22",
+    "freq": 220,
+    "ytId": "sOhESxhibAM"
+  },
+  {
+    "id": 92,
+    "title": "Main Agar Kahoon",
+    "artist": "Om Shanti Om · Sonu Nigam",
+    "duration": "5:10",
+    "freq": 247,
+    "ytId": "2mWaqsC3U7k"
+  },
+  {
+    "id": 93,
+    "title": "Deewangi Deewangi",
+    "artist": "Om Shanti Om · Shaan & Udit Narayan",
+    "duration": "5:43",
+    "freq": 261,
+    "ytId": "BArlCOQ__ug"
+  },
+  {
+    "id": 94,
+    "title": "Tere Naina",
+    "artist": "My Name Is Khan · Shafqat Amanat Ali",
+    "duration": "4:38",
+    "freq": 293,
+    "ytId": "s8aAlUynpEY"
+  },
+  {
+    "id": 95,
+    "title": "Noor-E-Khuda",
+    "artist": "My Name Is Khan · Adnan Sami",
+    "duration": "6:37",
+    "freq": 329,
+    "ytId": "PlIoHp6v3LI"
+  },
+  {
+    "id": 96,
+    "title": "Sajdaa",
+    "artist": "My Name Is Khan · Rahat Fateh Ali Khan",
+    "duration": "6:05",
+    "freq": 349,
+    "ytId": "fdubeMFwuGs"
+  },
+  {
+    "id": 97,
+    "title": "Raanjhanaa",
+    "artist": "Raanjhanaa · A.R. Rahman",
+    "duration": "4:16",
+    "freq": 392,
+    "ytId": "2N8_XDPW67Q"
+  },
+  {
+    "id": 98,
+    "title": "Tum Tak",
+    "artist": "Raanjhanaa · Javed Ali & Keerthi Sagathia",
+    "duration": "5:04",
+    "freq": 440,
+    "ytId": "oZ7PnR_ZKRE"
+  },
+  {
+    "id": 99,
+    "title": "Piya Milenge",
+    "artist": "Raanjhanaa · K.S. Chithra & A.R. Rahman",
+    "duration": "5:48",
+    "freq": 493,
+    "ytId": "8HDTS80dlr4"
+  },
+  {
+    "id": 100,
+    "title": "Tu Mun Shudi",
+    "artist": "Raanjhanaa · A.R. Rahman & Rabbi Shergill",
+    "duration": "4:41",
+    "freq": 523,
+    "ytId": "9godkMYS1c4"
+  }
+]
